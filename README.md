@@ -11,7 +11,7 @@ Uses generics which means that go 1.18+ is required.
 package main
 
 import (
-	"git.slowtyper.com/slowtyper/gosafe"
+	"github.com/janitorjeff/gosafe"
 )
 
 func main() {
@@ -29,7 +29,7 @@ extension.
 package main
 
 import (
-	"git.slowtyper.com/slowtyper/gosafe"
+	"github.com/janitorjeff/gosafe"
 )
 
 type CustomSlice struct {
